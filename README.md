@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Nikhil Makkalla 👋
 
-<!--
-**NikhilMakkalla/NikhilMakkalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | SQL | Excel | Power BI | Tableau
 
-Here are some ideas to get you started:
+I'm an aspiring Data Analyst passionate about transforming data into meaningful business insights. I have hands-on experience working with SQL, Excel, Power BI, and Tableau through data analytics projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- SQL (MySQL)
+- Microsoft Excel
+- Power BI
+- Tableau
+- Data Cleaning & Analysis
+- Data Visualization
+- Business Insights & Reporting
+
+## 📊 Featured Project
+
+### Zomato Data Analytics Project
+End-to-end data analytics project analyzing Zomato restaurant data using SQL, Excel, Power BI, and Tableau.
+
+**Key Areas:**
+- Restaurant performance analysis
+- Ratings and pricing analysis
+- Table booking availability
+- Restaurant opening trends
+- Interactive dashboards and business insights
+
+## 🎯 Career Goal
+
+Currently seeking opportunities as a **Fresher Data Analyst** where I can apply my analytical skills, learn from real-world data, and contribute to data-driven business decisions.
+
+
+
+- LinkedIn: [Add your LinkedIn profile]
+- Email: [Add your professional email]
