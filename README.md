@@ -32,5 +32,5 @@ Currently seeking opportunities as a **Fresher Data Analyst** where I can apply 
 
 
 
-- LinkedIn: [Add your LinkedIn profile]
-- Email: [Add your professional email]
+- LinkedIn: https://www.linkedin.com/in/nikhil-makkalla-034475417/
+- Email: nikhilmakkalla@gmail.com
