@@ -18,7 +18,7 @@ I'm a fresher Data Analyst with hands-on experience in **SQL, Excel, Power BI, a
 
 End-to-end data analytics project using SQL, Excel, Power BI and Tableau to analyze restaurant performance, ratings, pricing, table booking availability and restaurant opening trends.
 
-🔗 [View Zomato Data Analytics Project](YOUR_GITHUB_PROJECT_LINK)
+https://github.com/NikhilMakkalla/Zomato-Data-Analytics-
 
 ### 🎯 Career Goal
 
