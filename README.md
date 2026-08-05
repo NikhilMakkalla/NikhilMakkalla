@@ -1,36 +1,30 @@
 # Hi, I'm Nikhil Makkalla 👋
 
-### Aspiring Data Analyst | SQL | Excel | Power BI | Tableau
+## Aspiring Data Analyst
 
-I'm an aspiring Data Analyst passionate about transforming data into meaningful business insights. I have hands-on experience working with SQL, Excel, Power BI, and Tableau through data analytics projects.
+I'm a fresher Data Analyst with hands-on experience in **SQL, Excel, Power BI, and Tableau**. I enjoy transforming raw data into meaningful insights and building interactive dashboards to support data-driven decision-making.
 
-## 🛠️ Skills
+### 🛠️ Skills & Tools
 
-- SQL (MySQL)
-- Microsoft Excel
-- Power BI
-- Tableau
-- Data Cleaning & Analysis
-- Data Visualization
-- Business Insights & Reporting
+- **SQL** – Data extraction, joins, subqueries, aggregations and analysis
+- **Excel** – Data cleaning, analysis, formulas, PivotTables and dashboards
+- **Power BI** – Data modeling, DAX, KPIs and interactive dashboards
+- **Tableau** – Data visualization and interactive dashboards
+- **Data Analytics** – Data cleaning, KPI analysis and business insights
 
-## 📊 Featured Project
+### 📊 Featured Project
 
-### Zomato Data Analytics Project
-End-to-end data analytics project analyzing Zomato restaurant data using SQL, Excel, Power BI, and Tableau.
+**Zomato Data Analytics Project**
 
-**Key Areas:**
-- Restaurant performance analysis
-- Ratings and pricing analysis
-- Table booking availability
-- Restaurant opening trends
-- Interactive dashboards and business insights
+End-to-end data analytics project using SQL, Excel, Power BI and Tableau to analyze restaurant performance, ratings, pricing, table booking availability and restaurant opening trends.
 
-## 🎯 Career Goal
+🔗 [View Zomato Data Analytics Project](YOUR_GITHUB_PROJECT_LINK)
 
-Currently seeking opportunities as a **Fresher Data Analyst** where I can apply my analytical skills, learn from real-world data, and contribute to data-driven business decisions.
+### 🎯 Career Goal
 
+Seeking an entry-level Data Analyst opportunity where I can apply my analytical and visualization skills to solve real-world business problems and grow as a data professional.
 
+### 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/nikhil-makkalla-034475417/
 - Email: nikhilmakkalla@gmail.com
